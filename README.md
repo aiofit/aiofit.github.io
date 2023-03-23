@@ -1,4 +1,3 @@
 # aiofit.github.io
 
-https://www.aiofit.github.io
-
+https://aiofit.github.io/
